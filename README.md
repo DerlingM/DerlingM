@@ -3,15 +3,13 @@
 
 Soy un desarrollador Full Stack apasionado por la creación de aplicaciones web y la resolución de problemas complejos. Tengo experiencia tanto en el desarrollo del lado del cliente como en el del servidor, y me encanta trabajar en proyectos que abarquen todo el espectro del desarrollo web.
 
-En el lado del servidor, soy competente en el desarrollo de aplicaciones utilizando tecnologías como Node.js, Express.js, javaScript.
+Poseo una mentalidad orientada al trabajo en equipo y puedo colaborar efectivamente con otros desarrolladores, diseñadores y equipos.
 
-Además de mis habilidades técnicas, poseo una mentalidad orientada al trabajo en equipo y puedo colaborar efectivamente con otros desarrolladores, diseñadores y equipos.
-
-soy un desarrollador Full Stack comprometido con la creación de aplicaciones web de alta calidad Estoy constantemente aprendiendo y adaptándome a las nuevas tecnologías y estoy emocionado de seguir creciendo como desarrollador Full Stack en el emocionante mundo de la tecnología.
+Soy comprometido con la creación de aplicaciones web de alta calidad Estoy constantemente aprendiendo y adaptándome a las nuevas tecnologías y estoy emocionado de seguir creciendo como desarrollador Full Stack en el emocionante mundo de la tecnología.
 
 Adicional a esto he trabajado de manera independiente desarrollando videojuegos indie, 2 para ser exactos, de los cuales 1 de ellos llego a top 10 de mejores juegos en talento local en Mexico,
 
-Tambien desarrolle una App mobile orientado al servicio de entregas a domicilio, donde conecte a los restaurantes de mi zona con los clientes, para que pudieran ordenar lo que quisieran.
+Tambien desarrolle una App movil orientado al servicio de entregas a domicilio, donde conecte a los restaurantes de mi zona con los clientes, para que pudieran ordenar lo que quisieran.
 Esto se desarrollo con ionic angular y typeScript lo cual sigo aprendiendo mas ya que aprendi lo basico para poder terminar este proyecto
 
 
@@ -47,3 +45,6 @@ Metodología | Scrum.
 Control de versiones | Git & Github.
 
 Gestión de proyectos | Slack & Trello.
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DerlingM&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
